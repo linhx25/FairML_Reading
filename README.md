@@ -2,7 +2,7 @@
 Collection of Fair Machine Learning papers
 
 - Thanks to Richard Zemel's course Syllabus
-
+- I will keep updating the paper list about fair machine learning + Diversity, Equity, Inclusion (DEI)
 
 ## Table of Contents
 - [Survey Paper](#survey-paper)
@@ -25,5 +25,6 @@ Collection of Fair Machine Learning papers
 
 
 ## Definitions and Trade-offs
-
+- [Simplicity Creates Inequity: Implications for Fairness, Stereotypes and Interpretability](https://arxiv.org/pdf/1809.04578.pdf), Kleinberg, Jon, and Sendhil Mullainathan. Economics and Computation. 2019.
+- [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/pdf/1609.05807.pdf)
 
