@@ -19,8 +19,8 @@ Collection of Fair Machine Learning papers
 ## Source of Bias
 - [Semantics derived automatically from language corpora contain human-like biases](https://researchportal.bath.ac.uk/en/publications/semantics-derived-automatically-from-language-corpora-necessarily), Caliskan, Aylin, Joanna J. Bryson, and Arvind Narayanan, Science. 
 - [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
-- [A large-scale analysis of racial disparities in police stops across the United States](https://5harad.com/papers/traffic-stops.pdf)
-- [Why is my classifier discriminatory?](https://arxiv.org/pdf/1805.12002.pdf), Pierson, Emma, Nature Human Behaviour
+- [A large-scale analysis of racial disparities in police stops across the United States](https://5harad.com/papers/traffic-stops.pdf), Pierson, Emma, Nature Human Behaviour
+- [Why is my classifier discriminatory?](https://arxiv.org/pdf/1805.12002.pdf), Chen, Irene, Fredrik D. Johansson, and David Sontag. Advances in NIPS (2018).
 - [Man is to computer programmer as woman is to homemaker? Debiasing word embeddings](https://arxiv.org/pdf/1607.06520.pdf)
 - [Understanding undesirable word embedding associations](https://arxiv.org/pdf/1908.06361.pdf)
 
