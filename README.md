@@ -9,6 +9,8 @@ Collection of Fair Machine Learning papers
 - [Source of Bias](#source-of-bias)
 - [Definition and Trade-offs](#definitions-and-trade-offs)
 - [Fairness Representations](#fairness-representations)
+- [Domain Generalization Methods](#domain-generalization-methods)
+- [Causality / Structural Causal Models](#causality--structural-causal-models)
 
 
 ## Survey Paper
@@ -42,4 +44,18 @@ Collection of Fair Machine Learning papers
 - [Optimized data pre-processing for discrimination prevention](https://arxiv.org/pdf/1704.03354.pdf)
 - [Certifying and removing disparate impact](https://arxiv.org/pdf/1412.3756.pdf), Feldman, Michael, Sorelle A. Friedler, John Moeller, Carlos Scheidegger, and Suresh Venkatasubramanian. KDD 2015.
 - [Invariant representations without adversarial training](https://arxiv.org/pdf/1805.09458.pdf), Moyer, Daniel, Shuyang Gao, Rob Brekelmans, Aram Galstyan, and Greg Ver Steeg. NIPS 2018.
+
+
+## Domain Generalization Methods
+- [Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization](https://arxiv.org/abs/1911.08731?context=cs.LG), Sagawa, Shiori, Pang Wei Koh, Tatsunori B. Hashimoto, and Percy Liang. 2019.
+- [Conditional variance penalties and domain shift robustness](https://arxiv.org/pdf/1710.11469.pdf), Heinze-Deml, Christina, and Nicolai Meinshausen. 2017.
+- [Causal inference by using invariant prediction: identification and confidence intervals](https://arxiv.org/abs/1501.01332)
+- [Out-of-Distribution Generalization via Risk Extrapolation](https://arxiv.org/abs/2003.00688)
+- [Conditional value-at-risk for general loss distributions](https://www.sciencedirect.com/science/article/pii/S0378426602002716)
+- [In search of lost domain generalization](https://arxiv.org/abs/2007.01434)
+
+
+## Causality / Structural Causal Models
+- [On Pearl’s Hierarchy and the Foundations of Causal Inference](https://causalai.net/r60.pdf), Bareinboim, Elias, Juan D. Correa, Duligur Ibeling, and Thomas Icard. In Probabilistic and Causal Inference: The Works of Judea Pearl 2022.
+
 
