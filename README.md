@@ -57,5 +57,8 @@ Collection of Fair Machine Learning papers
 
 ## Causality / Structural Causal Models
 - [On Pearl’s Hierarchy and the Foundations of Causal Inference](https://causalai.net/r60.pdf), Bareinboim, Elias, Juan D. Correa, Duligur Ibeling, and Thomas Icard. In Probabilistic and Causal Inference: The Works of Judea Pearl 2022.
+- [Counterfactual fairness](https://arxiv.org/abs/1703.06856), Kusner, Matt J., Joshua Loftus, Chris Russell, and Ricardo Silva. NIPS 2017
+- [Causally Motivated Shortcut Removal Using Auxiliary Labels](https://arxiv.org/abs/2105.06422), Makar, Maggie, Ben Packer, Dan Moldovan, Davis Blalock, Yoni Halpern, and Alexander D’Amour. AISTATS PMLR, 2022.
+- [Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests](https://arxiv.org/abs/2106.00545)
 
 
