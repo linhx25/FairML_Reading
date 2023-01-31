@@ -11,7 +11,7 @@ Collection of Fair Machine Learning papers
 - [Fairness Representations](#fairness-representations)
 - [Domain Generalization Methods](#domain-generalization-methods)
 - [Causality / Structural Causal Models](#causality--structural-causal-models)
-
+- [Fairness without Group Labels](#fairness-without-group-labels)
 
 ## Survey Paper
 - [Fairness in Learning-Based Sequential Decision Algorithms: A Survey](https://arxiv.org/abs/2001.04861)
@@ -60,5 +60,10 @@ Collection of Fair Machine Learning papers
 - [Counterfactual fairness](https://arxiv.org/abs/1703.06856), Kusner, Matt J., Joshua Loftus, Chris Russell, and Ricardo Silva. NIPS 2017
 - [Causally Motivated Shortcut Removal Using Auxiliary Labels](https://arxiv.org/abs/2105.06422), Makar, Maggie, Ben Packer, Dan Moldovan, Davis Blalock, Yoni Halpern, and Alexander D’Amour. AISTATS PMLR, 2022.
 - [Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests](https://arxiv.org/abs/2106.00545)
+- [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893) Arjovsky, Martin, et al. (2019).
+- [The Risks of Invariant Risk Minimization](https://arxiv.org/abs/2010.05761) Rosenfeld, Elan, Pradeep Ravikumar, and Andrej Risteski (2020)
+- [Does invariant risk minimization capture invariance?](https://arxiv.org/abs/2101.01134) Kamath, Pritish, et al. AISTATS. PMLR, 2021.
 
-
+## Fairness without Group Labels
+- [Fairness without Demographics through Adversarially Reweighted Learning](https://arxiv.org/abs/2006.13114) Lahoti, Preethi, et al. NIPS 2020
+- [An Empirical Study of Rich Subgroup Fairness for Machine Learning](https://arxiv.org/abs/1808.08166) Kearns, Michael, et al. Proceedings of the conference on fairness, accountability, and transparency. 2019.
