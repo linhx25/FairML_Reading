@@ -49,20 +49,20 @@ Collection of Fair Machine Learning papers
 ## Domain Generalization Methods
 - [Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization](https://arxiv.org/abs/1911.08731?context=cs.LG), Sagawa, Shiori, Pang Wei Koh, Tatsunori B. Hashimoto, and Percy Liang. 2019.
 - [Conditional variance penalties and domain shift robustness](https://arxiv.org/pdf/1710.11469.pdf), Heinze-Deml, Christina, and Nicolai Meinshausen. 2017.
-- [Causal inference by using invariant prediction: identification and confidence intervals](https://arxiv.org/abs/1501.01332)
-- [Out-of-Distribution Generalization via Risk Extrapolation](https://arxiv.org/abs/2003.00688)
-- [Conditional value-at-risk for general loss distributions](https://www.sciencedirect.com/science/article/pii/S0378426602002716)
-- [In search of lost domain generalization](https://arxiv.org/abs/2007.01434)
+- [Out-of-Distribution Generalization via Risk Extrapolation](https://arxiv.org/abs/2003.00688) Krueger, David, et al. ICML, 2021.
+- [Conditional value-at-risk for general loss distributions](https://www.sciencedirect.com/science/article/pii/S0378426602002716) Rockafellar, R. Tyrrell, and Stanislav Uryasev. Journal of banking & finance (2002)
+- [In search of lost domain generalization](https://arxiv.org/abs/2007.01434) Gulrajani, Ishaan, and David Lopez-Paz. arXiv preprint (2020).
 
 
 ## Causality / Structural Causal Models
 - [On Pearl’s Hierarchy and the Foundations of Causal Inference](https://causalai.net/r60.pdf), Bareinboim, Elias, Juan D. Correa, Duligur Ibeling, and Thomas Icard. In Probabilistic and Causal Inference: The Works of Judea Pearl 2022.
+- [Causal inference by using invariant prediction: identification and confidence intervals](https://arxiv.org/abs/1501.01332)
 - [Counterfactual fairness](https://arxiv.org/abs/1703.06856), Kusner, Matt J., Joshua Loftus, Chris Russell, and Ricardo Silva. NIPS 2017
 - [Causally Motivated Shortcut Removal Using Auxiliary Labels](https://arxiv.org/abs/2105.06422), Makar, Maggie, Ben Packer, Dan Moldovan, Davis Blalock, Yoni Halpern, and Alexander D’Amour. AISTATS PMLR, 2022.
 - [Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests](https://arxiv.org/abs/2106.00545)
 - [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893) Arjovsky, Martin, et al. (2019).
 - [The Risks of Invariant Risk Minimization](https://arxiv.org/abs/2010.05761) Rosenfeld, Elan, Pradeep Ravikumar, and Andrej Risteski (2020)
-- [Does invariant risk minimization capture invariance?](https://arxiv.org/abs/2101.01134) Kamath, Pritish, et al. AISTATS. PMLR, 2021.
+- [Does invariant risk minimization capture invariance?](https://arxiv.org/abs/2101.01134) Kamath, Pritish, et al. AISTATS. 2021.
 
 ## Fairness without Group Labels
 - [Fairness without Demographics through Adversarially Reweighted Learning](https://arxiv.org/abs/2006.13114) Lahoti, Preethi, et al. NIPS 2020
