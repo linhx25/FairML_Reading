@@ -67,3 +67,5 @@ Collection of Fair Machine Learning papers
 ## Fairness without Group Labels
 - [Fairness without Demographics through Adversarially Reweighted Learning](https://arxiv.org/abs/2006.13114) Lahoti, Preethi, et al. NIPS 2020
 - [An Empirical Study of Rich Subgroup Fairness for Machine Learning](https://arxiv.org/abs/1808.08166) Kearns, Michael, et al. Proceedings of the conference on fairness, accountability, and transparency. 2019.
+- [Fairness without demographics in repeated loss minimization](https://arxiv.org/abs/1806.08010) Hashimoto, Tatsunori, et al. ICML, 2018.
+- [Calibration for the (computationally-identifiable) masses](https://arxiv.org/abs/1711.08513) Hébert-Johnson, Ursula, et al. ICML, 2018.
