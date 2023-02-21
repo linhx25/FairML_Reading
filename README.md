@@ -69,6 +69,7 @@ Collection of Fair Machine Learning papers
 - [An Empirical Study of Rich Subgroup Fairness for Machine Learning](https://arxiv.org/abs/1808.08166) Kearns, Michael, et al. Proceedings of the conference on fairness, accountability, and transparency. 2019.
 - [Fairness without demographics in repeated loss minimization](https://arxiv.org/abs/1806.08010) Hashimoto, Tatsunori, et al. ICML, 2018.
 - [Calibration for the (computationally-identifiable) masses](https://arxiv.org/abs/1711.08513) Hébert-Johnson, Ursula, et al. ICML, 2018.
-- [Multiaccuracy: Black-box post-processing for fairness in classification](https://arxiv.org/abs/1805.12317)
-- [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://arxiv.org/abs/1711.05144)
-- [Universal adaptability: Target-independent inference that competes with propensity scoring](https://www.pnas.org/doi/full/10.1073/pnas.2108097119)
+- [Multiaccuracy: Black-box post-processing for fairness in classification](https://arxiv.org/abs/1805.12317), Kim, Michael P., Amirata Ghorbani, and James Zou. Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society.
+- [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://arxiv.org/abs/1711.05144), Kearns, Michael, et al. ICML, 2018.
+- [Universal adaptability: Target-independent inference that competes with propensity scoring](https://www.pnas.org/doi/full/10.1073/pnas.2108097119), Kim, Michael P., et al.PNAS (2022)
+
