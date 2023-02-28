@@ -47,11 +47,14 @@ Collection of Fair Machine Learning papers
 
 
 ## Domain Generalization Methods
+### With Group Labels
 - [Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization](https://arxiv.org/abs/1911.08731?context=cs.LG), Sagawa, Shiori, Pang Wei Koh, Tatsunori B. Hashimoto, and Percy Liang. 2019.
 - [Conditional variance penalties and domain shift robustness](https://arxiv.org/pdf/1710.11469.pdf), Heinze-Deml, Christina, and Nicolai Meinshausen. 2017.
 - [Out-of-Distribution Generalization via Risk Extrapolation](https://arxiv.org/abs/2003.00688) Krueger, David, et al. ICML, 2021.
 - [Conditional value-at-risk for general loss distributions](https://www.sciencedirect.com/science/article/pii/S0378426602002716) Rockafellar, R. Tyrrell, and Stanislav Uryasev. Journal of banking & finance (2002)
 - [In search of lost domain generalization](https://arxiv.org/abs/2007.01434) Gulrajani, Ishaan, and David Lopez-Paz. arXiv preprint (2020).
+### Without Group Labels
+- [Environment Inference for Invariant Learning](https://arxiv.org/abs/2010.07249)
 
 
 ## Causality / Structural Causal Models
@@ -65,6 +68,7 @@ Collection of Fair Machine Learning papers
 - [Does invariant risk minimization capture invariance?](https://arxiv.org/abs/2101.01134) Kamath, Pritish, et al. AISTATS. 2021.
 
 ## Fairness without Group Labels
+
 - [Fairness without Demographics through Adversarially Reweighted Learning](https://arxiv.org/abs/2006.13114) Lahoti, Preethi, et al. NIPS 2020
 - [An Empirical Study of Rich Subgroup Fairness for Machine Learning](https://arxiv.org/abs/1808.08166) Kearns, Michael, et al. Proceedings of the conference on fairness, accountability, and transparency. 2019.
 - [Fairness without demographics in repeated loss minimization](https://arxiv.org/abs/1806.08010) Hashimoto, Tatsunori, et al. ICML, 2018.
@@ -72,4 +76,5 @@ Collection of Fair Machine Learning papers
 - [Multiaccuracy: Black-box post-processing for fairness in classification](https://arxiv.org/abs/1805.12317), Kim, Michael P., Amirata Ghorbani, and James Zou. Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society.
 - [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://arxiv.org/abs/1711.05144), Kearns, Michael, et al. ICML, 2018.
 - [Universal adaptability: Target-independent inference that competes with propensity scoring](https://www.pnas.org/doi/full/10.1073/pnas.2108097119), Kim, Michael P., et al.PNAS (2022)
+
 
