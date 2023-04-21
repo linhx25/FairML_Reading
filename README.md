@@ -20,14 +20,14 @@ Collection of Fair Machine Learning papers
 
 ## Source of Bias
 - [Semantics derived automatically from language corpora contain human-like biases](https://researchportal.bath.ac.uk/en/publications/semantics-derived-automatically-from-language-corpora-necessarily), Caliskan, Aylin, Joanna J. Bryson, and Arvind Narayanan, Science. 
-- [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf)
+- [Unbiased look at dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf) Torralba, Antonio, and Alexei A. Efros. CVPR 2011. 
 - [A large-scale analysis of racial disparities in police stops across the United States](https://5harad.com/papers/traffic-stops.pdf), Pierson, Emma, Nature Human Behaviour
-- [Why is my classifier discriminatory?](https://arxiv.org/pdf/1805.12002.pdf), Chen, Irene, Fredrik D. Johansson, and David Sontag. Advances in NIPS (2018).
-- [Man is to computer programmer as woman is to homemaker? Debiasing word embeddings](https://arxiv.org/pdf/1607.06520.pdf)
+- [Why is my classifier discriminatory?](https://arxiv.org/pdf/1805.12002.pdf), Chen, Irene, Fredrik D. Johansson, and David Sontag. Advances in NIPS 2018
+- [Man is to computer programmer as woman is to homemaker? Debiasing word embeddings](https://arxiv.org/pdf/1607.06520.pdf)Bolukbasi, Tolga, et al. NIPS 2016
 - [Understanding undesirable word embedding associations](https://arxiv.org/pdf/1908.06361.pdf)
-- [Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3093) Lambrecht, Anja, and Catherine Tucker. Management science 65.7 (2019): 2966-2981.
-- [Apparent algorithmic discrimination and real-time algorithmic learning in digital search advertising](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3570076) Lambrecht, Anja, and Catherine E. Tucker. SSRN 3570076 (2020).
-- [Disparate Impact of Artificial Intelligence Bias in Ridehailing Economy's Price Discrimination Algorithms.](https://dl.acm.org/doi/pdf/10.1145/3461702.3462561) Pandey, Akshat, and Aylin Caliskan. Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. 2021.
+- [Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of STEM career ads](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2018.3093) Lambrecht, Anja, and Catherine Tucker. Management science 2019
+- [Apparent algorithmic discrimination and real-time algorithmic learning in digital search advertising](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3570076) Lambrecht, Anja, and Catherine Tucker. SSRN 3570076 (2020).
+- [Disparate Impact of Artificial Intelligence Bias in Ridehailing Economy's Price Discrimination Algorithms.](https://dl.acm.org/doi/pdf/10.1145/3461702.3462561) Pandey, Akshat, and Aylin Caliskan. AAAI/ACM Conference on AI, Ethics, and Society. 2021.
 
 
 
