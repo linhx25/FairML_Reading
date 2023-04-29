@@ -58,7 +58,7 @@ Collection of Fair Machine Learning papers
 - [Conditional value-at-risk for general loss distributions](https://www.sciencedirect.com/science/article/pii/S0378426602002716) Rockafellar, R. Tyrrell, and Stanislav Uryasev. Journal of banking & finance (2002)
 - [In search of lost domain generalization](https://arxiv.org/abs/2007.01434) Gulrajani, Ishaan, and David Lopez-Paz. arXiv preprint (2020).
 ### Without Group Labels
-- [Environment Inference for Invariant Learning](https://arxiv.org/abs/2010.07249)
+- [Environment Inference for Invariant Learning](https://arxiv.org/abs/2010.07249) Creager, Elliot, Jörn-Henrik Jacobsen, and Richard Zemel. ICML 2021
 
 
 ## Causality / Structural Causal Models
